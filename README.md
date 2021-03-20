@@ -1,5 +1,6 @@
 # ProblemKomiwojazera
-Implementacja algorytmów rozwiązujących problem komiwojażera w C++
+Implementacja algorytmów rozwiązujących problem komiwojażera w C++\
+Każdy z etapów zawiera osobny plik z dokumentacją.
 
 etap 0 - obliczenie cyklu Hamiltona oraz alogrytm zachłanny\
 etap 1 - algorytmy przeglądu zupełnego oraz podziału i ograniczeń\
