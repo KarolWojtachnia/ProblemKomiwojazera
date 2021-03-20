@@ -1,0 +1,11 @@
+﻿  DistanceMatrix.cpp
+D:\Projektowanie efektywnych algorytmów\Projekt\etap2\PEA_projekt\DistanceMatrix.cpp(187,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Projektowanie efektywnych algorytmów\Projekt\etap2\PEA_projekt\DistanceMatrix.cpp(195,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Projektowanie efektywnych algorytmów\Projekt\etap2\PEA_projekt\DistanceMatrix.cpp(262,31): warning C4305: "*=": obcięcie z "double" do "float"
+D:\Projektowanie efektywnych algorytmów\Projekt\etap2\PEA_projekt\DistanceMatrix.cpp(278,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Trwa generowanie kodu
+  2 of 263 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  PEA_projekt.vcxproj -> D:\Projektowanie efektywnych algorytmów\Projekt\etap2\x64\Release\PEA_projekt.exe

@@ -1,0 +1,6 @@
+﻿  DistanceMatrix.cpp
+D:\Projektowanie efektywnych algorytmów\Projekt\etap2\PEA_projekt\DistanceMatrix.cpp(190,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Projektowanie efektywnych algorytmów\Projekt\etap2\PEA_projekt\DistanceMatrix.cpp(198,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Projektowanie efektywnych algorytmów\Projekt\etap2\PEA_projekt\DistanceMatrix.cpp(265,31): warning C4305: "*=": obcięcie z "double" do "float"
+D:\Projektowanie efektywnych algorytmów\Projekt\etap2\PEA_projekt\DistanceMatrix.cpp(281,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  PEA_projekt.vcxproj -> D:\Projektowanie efektywnych algorytmów\Projekt\etap2\x64\Debug\PEA_projekt.exe
