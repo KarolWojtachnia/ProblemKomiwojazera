@@ -7,4 +7,4 @@ etap 1 - algorytmy przeglądu zupełnego oraz podziału i ograniczeń\
 etap 2 - algorytmy poszukiwania z zakazami oraz symulowanego wyżarzania\
 etap 3 - algorytm genetyczny
 
-Plik a280.tsp jes przykładową instacją. Każdy plik z instancją musi mieć taką strukturę.
+Plik a280.tsp jes przykładową instacją w reprezentacji macierzowej.
